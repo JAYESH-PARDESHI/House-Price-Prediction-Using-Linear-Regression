@@ -1,5 +1,9 @@
 # House Price Prediction Using Linear Regression
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+
 ## Project Overview
 
 This project focuses on predicting house prices using Machine Learning techniques. A Linear Regression model was developed by performing data preprocessing, exploratory data analysis (EDA), feature selection, and model evaluation.
@@ -119,6 +123,6 @@ Residual distribution was analyzed to evaluate prediction errors. The residuals 
 
 ## Author
 
-**Pushkraj Pardeshi**
+**Jayesh Pardeshi**
 
 AI & Data Science Student
